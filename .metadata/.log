@@ -1,0 +1,30 @@
+!SESSION 2025-06-06 07:17:31.214 -----------------------------------------------
+eclipse.buildId=Version 1.18.1
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=es_AR
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-06-06 07:17:43.789
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-06-06 07:17:43.789
+!MESSAGE Log4j2 initialized with config file /home/carlitoz/Documentos/Proyectos-STM32/Grupo_7_TDII_2025/.metadata/.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-06-06 07:17:45.635
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-06-06 07:18:07.432
+!MESSAGE Indexed 'App1.1' (19 sources, 115 headers) in 1.83 sec: 10,715 declarations; 38,793 references; 1 unresolved inclusions; 92 syntax errors; 240 unresolved names (0.48%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-06-06 07:18:08.615
+!MESSAGE Indexed 'App1.2' (19 sources, 116 headers) in 1.18 sec: 10,723 declarations; 38,909 references; 1 unresolved inclusions; 92 syntax errors; 240 unresolved names (0.48%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-06-06 07:18:09.606
+!MESSAGE Indexed 'App1.3' (19 sources, 116 headers) in 0.987 sec: 10,724 declarations; 38,989 references; 1 unresolved inclusions; 92 syntax errors; 240 unresolved names (0.48%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-06-06 07:18:10.514
+!MESSAGE Indexed 'App1.4' (19 sources, 116 headers) in 0.904 sec: 10,724 declarations; 38,912 references; 1 unresolved inclusions; 92 syntax errors; 240 unresolved names (0.48%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-06-06 07:18:11.402
+!MESSAGE Indexed 'App1.2B' (19 sources, 116 headers) in 0.886 sec: 10,717 declarations; 38,898 references; 1 unresolved inclusions; 92 syntax errors; 240 unresolved names (0.48%)
